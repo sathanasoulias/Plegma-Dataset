@@ -8,7 +8,7 @@ A comprehensive appliance-level and aggregate electricity demand, with environme
 
 
 ### INFORMATION
-Collection of this dataset was supported by the Plegma Labs, National Technical University of Athens, and University of Strathclyde via the GECKO Marie Skłodowska-Curie grant agreement No 955422. The dataset includes data from 10 households from Greece over the period September 2022 - September 2023.
+Collection of this dataset was supported by the Plegma Labs, National Technical University of Athens, and University of Strathclyde via the GECKO Marie Skłodowska-Curie grant agreement No 955422. The dataset includes data from 13 households from Greece over the period September 2022 - September 2023.
 
 ### FOLDER STRUCTURE
 Plegma Dataset contains electric, environmental, and demographic data of households that participate in the study. It is provided in both raw and preprocessed versions to allow the research community to use our preprocessing pipeline or create their own. The 'sociodemographic-building characteristics-appliances usage', external environmental data, and appliances metadata are only presented in the processed version of the dataset.
