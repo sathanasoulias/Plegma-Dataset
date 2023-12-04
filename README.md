@@ -44,3 +44,8 @@ Data cleaning involved forward-filling small gaps of NaN values and removing val
 
 ### Appliances Metadata
 The electric folder of the processed dataset includes a CSV file with appliances metadata, detailing wattage information such as cutoff, threshold, min_on, min_off.
+
+### Link to download data
+The Plegma dataset is hosted at the University of Strathclyde data portal and can be accessed:
+- DOI: 10.15129/3b01a6c6-2efd-424a-b8b8-5fe7fa445ded
+- URL: https://pureportal.strath.ac.uk/en/datasets/plegma-dataset
